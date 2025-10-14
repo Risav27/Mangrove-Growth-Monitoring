@@ -51,7 +51,7 @@ However, you need to install the following extra dependencies:
 ```bash
 pip install rasterio
 
-
+```
 
 Other common libraries used (already available in Colab):
 
