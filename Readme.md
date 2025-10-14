@@ -51,13 +51,7 @@ However, you need to install the following extra dependencies:
 ```bash
 pip install rasterio
 
-Got it 👍 — here’s the full working **Markdown code (from the `bash` block onward)** in a single, clean piece that won’t break or crash your editor.
-You can safely copy this part straight into your `README.md`:
 
-````markdown
-```bash
-pip install rasterio
-````
 
 Other common libraries used (already available in Colab):
 
