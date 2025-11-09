@@ -43,6 +43,16 @@ The workflow begins with **data collection from Google Earth Engine**, storage a
 
 ---
 
+## 💻 View Results in Google Colab
+
+You can explore the full workflow, see outputs, and run the analysis directly in Google Colab using the link below:
+
+👉 [**Open Project in Google Colab**](https://colab.research.google.com/drive/1QCgmZUtrKHsCXJHOZA6WiD7O8f4HT7A_?usp=sharing)
+
+> The Colab notebook includes data collection, image preprocessing, segmentation, and growth prediction steps — along with sample output visualizations.
+
+---
+
 ## 🧩 Dependencies
 
 Most modules are **preinstalled in Google Colab**, so setup is minimal.  
